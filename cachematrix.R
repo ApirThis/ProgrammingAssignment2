@@ -1,5 +1,5 @@
 
-
+## FUNCTION NAMES ARE: setmx, getmx; getinv, setinv 
 ## Following the blueprint code of MakeVector, the following function
 ## allows the user to store and retrieve the value of a matrix and its inverse
    ## Default matrix taken from sample matrix that in the Coursera forum
